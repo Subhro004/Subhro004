@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Subhro004 (Subhranil Ghosh)
+- 👀 My interest lies somewhere in the intersection of AI, deep learning, Neural networks and automation.
+- 🌱 I’m currently learning DSA using Java and Python
+- 💞️ I’m looking to collaborate on Web development and AI based projects
+- 📫 Ph no: 9163004757, email id: subhranil004@gmail.com
